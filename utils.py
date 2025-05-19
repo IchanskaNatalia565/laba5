@@ -16,3 +16,9 @@ def is_power_of_5(n):
     while n % 5 == 0:
         n = n // 5
     return n == 1
+def is_power_of_2(n):
+    if n < 1:
+        return False
+    while n % 2 == 0:
+        n = n // 2
+    return n == 1
