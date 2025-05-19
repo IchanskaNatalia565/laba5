@@ -1,6 +1,1 @@
-First file
-New line in file1
-Change from main branch
-Hello from conflict-branch!
-
-
+hello from master.
